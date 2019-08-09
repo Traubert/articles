@@ -40,7 +40,7 @@ Kansalliskirjaston aineisto on ajallisesti pahasti epätasainen. Vuosilta 1920-1
 
 ![Vuosien 1920-2000 sanomalehtiaineiston työttömyysindikaattori](https://github.com/Traubert/articles/blob/master/tyottomyys/all_data.png "Koko aineisto")
 
-![Vuosien 1920-1944 sanomalehtiaineiston työttömyysindikaattori](https://github.com/Traubert/articles/blob/masger/tyottomyys/1920_1944.png "1920-1944")
+![Vuosien 1920-1944 sanomalehtiaineiston työttömyysindikaattori](https://github.com/Traubert/articles/blob/master/tyottomyys/1920_1944.png "1920-1944")
 
 ![Vuosien 1945-1975 sanomalehtiaineiston työttömyysindikaattori](https://github.com/Traubert/articles/blob/master/tyottomyys/1945_1975.png "1945-1975")
 
