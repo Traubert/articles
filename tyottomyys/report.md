@@ -40,10 +40,20 @@ Kansalliskirjaston aineisto on ajallisesti pahasti epätasainen. Vuosilta 1920-1
 
 ![Vuosien 1920-2000 sanomalehtiaineiston työttömyysindikaattori](https://github.com/Traubert/articles/blob/master/tyottomyys/all_data.png "Koko aineisto")
 
+Kunnollista yhtenäistä, numeerista tilastotietoa työttömyydestä on vaikea löytää Internetistä. Jotain viitettä antaa kuitenkin [tällä sivulla](https://www.stat.fi/org/tilastokeskus/tyottomyysaste.html) oleva Tilastokeskuksen koostama kuvaaja vuosilta 1900-2015.
+
 ![Vuosien 1920-1944 sanomalehtiaineiston työttömyysindikaattori](https://github.com/Traubert/articles/blob/master/tyottomyys/1920_1944.png "1920-1944")
+
+Kosinietäisyyskuvaajassa erottuu piikki vuosien 1930 ja 1935 välillä, ja tuona aikana kärsittiin myös suurtyöttömyydestä. Toisaalta kapeammat piikit on myös vuosien 1922 ja 1940 tienoilla. Kun tutkitaan tarkemmin, mitkä sanat saivat suurimman läheisyyden/aktivaation työttömyys-sanan kanssa, huomataan että 30-luvulla *työttömyys* nousee kärkikastiin, muina aikoina ei. 20-luvulla korostuvat sanat *palkka*, *yhteiskunta* ja *maatalous*. Suomi oli juuri käynyt sisällissodan, jonka osapuolten välinen erimielisyys yhteiskunnasta, tulonjaosta sekä maatalouden suuri merkitys senaikaisessa Suomessa mahdollisesti korostuvat. Sotavuonna 1940 näkynee osittain se, että sanomalehtiaineisto on tuolta vuodelta ollut tavallista vähäisempää, ja mahdollisesti asiapitoisuus korostuu keskiarvon laskemisessa. *Sairaus* ja *pelko* ovat tuolloin korkealla, ja tartuntataudit olivatkin merkittävä ongelma 1930-luvun lopulla ja 1940-luvulla. Huomionarvoista on sekin, että 30-luvulla *hinta* on yleisemmin kuin *palkka* läheisin löytynyt merkitys sanalle *työttömyys*, muina aikoina *palkka* on yleisempi kuin *hinta*.
 
 ![Vuosien 1945-1975 sanomalehtiaineiston työttömyysindikaattori](https://github.com/Traubert/articles/blob/master/tyottomyys/1945_1975.png "1945-1975")
 
+Aikavälillä 1945-1975 ei ole niin merkittäviä piikkejä työttömyydessä kuin 1930-luvulla oli, mutta ainakin työttömyyden nousukaudet näyttäisivät jokseenkin osuvat yhteen kosinsamankaltaisuuspiikkien kanssa. Olisi mielenkiintoista tutkia, millainen tilastollinen yhteys on ensinnäkin tällä kuvaajalla ja työttömyydellä, ja toiseksikin tällä kuvaajalla ja työttömyyden kasvulla.
+
 ![Vuosien 1976-1990 sanomalehtiaineiston työttömyysindikaattori](https://github.com/Traubert/articles/blob/master/tyottomyys/1976_1990.png "1976-1990")
 
+Tänä aikana korostuu aineiston vähäinen määrä ja sitä kautta heikko laatu. 1970-luvun lopun piikki ei näy mitenkään. Sanat *ongelma* ja *kriisi* korostuvat noina vuosina.
+
 ![Vuosien 1991-2000 sanomalehtiaineiston työttömyysindikaattori](https://github.com/Traubert/articles/blob/master/tyottomyys/1991_2000.png "1991-2000")
+
+Nyt aineisto on laadukkaampaa, ja näyttää melko selvästi ensin pahenevan laman vaikutukset, sitten suotuisamman talouskehityksen. Sanat *työttömyys* ja *lama* korostuvat lamavuosina.
