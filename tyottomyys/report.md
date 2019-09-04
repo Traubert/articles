@@ -38,7 +38,7 @@ Kosinietäisyydet laskettiin tehokkaalla C++:lla toteutetulla kirjastolla jota k
 
 Kansalliskirjaston aineisto on ajallisesti pahasti epätasainen. Vuosilta 1920-1944 aineistoa on gigatavuja vuosittain, vuosilta 1945-1975 satoja megatavuja, vuosilta 1976-1990 vain kymmeniä megatavuja, ja vuodesta 1991 eteenpäin ollaan jälleen gigatavuluokassa. Epätasaisuudet ovat niin suuria, pahimmillaan satakertaisia, että niiden aiheuttajana olevat metodologiset erot tekevät jaksoista keskenään huonosti vertailukelpoisia. Tämä näkyy seuraavassa kuvaajassa (y-akselissa näytetään 0.5 - kosinietäisyys, eli kosiniläheisyys - 1.5; vakio valittu jotta kuvaajassa näkyisi vuosien välinen vaihtelu selvemmin):
 
-![Vuosien 1920-2000 sanomalehtiaineiston työttömyysindikaattori](https://github.com/Traubert/articles/blob/master/tyottomyys/all_data.png "Koko aineisto")
+![Vuosien 1920-2000 sanomalehtiaineiston työttömyysindikaattori](https://github.com/Traubert/articles/blob/master/tyottomyys/työttömyys_1920_2000.png "Koko aineisto")
 
 Kunnollista yhtenäistä, numeerista tilastotietoa työttömyydestä on vaikea löytää Internetistä. Jotain viitettä antaa kuitenkin [tällä sivulla](https://www.stat.fi/org/tilastokeskus/tyottomyysaste.html) oleva Tilastokeskuksen koostama kuvaaja vuosilta 1900-2015.
 
